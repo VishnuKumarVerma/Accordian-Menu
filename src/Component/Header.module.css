@@ -1,0 +1,24 @@
+.headerClass {
+  margin: 0px auto 40px;
+  font-size: 30px;
+}
+
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#eee, #002f81);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@media (max-width: 426px) {
+  h1 {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 376px) {
+  h1 {
+    font-size: 25px;
+  }
+}
+

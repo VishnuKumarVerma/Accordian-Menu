@@ -1,0 +1,13 @@
+button {
+  width: 100%;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  border: none;
+  background-color: #fddbe2;
+  color: #1B3C73;
+  cursor: pointer;
+  border-radius: 5px;
+}
